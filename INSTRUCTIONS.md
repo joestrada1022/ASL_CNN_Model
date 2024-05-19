@@ -1,5 +1,12 @@
 # Instructions for Running the Notebook for Testing the Model
 
+## **Instruction 1 no longer works**
+- Recently many users have been encountering an issue where google colab no longer loads on github.
+- proof that this is a recent issue: [stackoverflow post](https://stackoverflow.com/questions/78501731/error-nbformat-when-uploading-to-github-from-google-colab)
+- **to fix this**: click on the following link: [jupyter renderer](https://nbviewer.org/) and paste in the link of the ipynb file found on this github
+- the following is the link if needed: https://github.com/joestrada1022/ASL_CNN_Model/blob/main/ASL_Model.ipynb
+- once 'open in google colab' is pressed, can go straight to instruction 2
+
 1. **Initialize the Notebook**
 - After clicking on the file in github, press 'open in colab'
 - run the initialization cell to import all necessary libraries
